@@ -2138,45 +2138,45 @@
         "units": [
           {
             "id": 501,
-            "title": "باب نمبر 1: بنیادی عقائد",
+            "title": "بنیادی عقائد",
             "exercises": [
-              {"id": 50101, "title": "1.1 توحید"},
-              {"id": 50102, "title": "1.2 رسالت"},
-              {"id": 50103, "title": "1.3 ملائکہ"},
-              {"id": 50104, "title": "1.4 آسمانی کتابیں"},
-              {"id": 50105, "title": "1.5 آخرت"}
+              {"id": 50101, "title": "توحید"},
+              {"id": 50102, "title": "رسالت"},
+              {"id": 50103, "title": "ملائکہ"},
+              {"id": 50104, "title": "آسمانی کتابیں"},
+              {"id": 50105, "title": "آخرت"}
             ]
           },
           {
             "id": 502,
-            "title": "باب نمبر 2: اسلامی تشخص",
+            "title": "اسلامی تشخص",
             "exercises": [
-              {"id": 50201, "title": "2.1 ارکانِ اسلام"},
-              {"id": 50202, "title": "2.2 اللہ اور رسولﷺ کی محبت و اطاعت"},
-              {"id": 50203, "title": "2.3 حقوق العباد"},
-              {"id": 50204, "title": "2.4 معاشرتی ذمہ داریاں"}
+              {"id": 50201, "title": "ارکانِ اسلام"},
+              {"id": 50202, "title": "اللہ اور رسولﷺ کی محبت و اطاعت"},
+              {"id": 50203, "title": "حقوق العباد"},
+              {"id": 50204, "title": "معاشرتی ذمہ داریاں"}
             ]
           },
           {
             "id": 503,
-            "title": "باب نمبر 3: اسوۂ رسولِ اکرمﷺ",
+            "title": "اسوۂ رسولِ اکرمﷺ",
             "exercises": [
-              {"id": 50301, "title": "3.1 رحمتہ للعالمین"},
-              {"id": 50302, "title": "3.2 اخوت"},
-              {"id": 50303, "title": "3.3 مساوات"},
-              {"id": 50304, "title": "3.4 صبرو استقلال"},
-              {"id": 50305, "title": "3.5 عفودرگزر"},
-              {"id": 50306, "title": "3.6 ذکر"}
+              {"id": 50301, "title": "رحمتہ للعالمین"},
+              {"id": 50302, "title": "اخوت"},
+              {"id": 50303, "title": "مساوات"},
+              {"id": 50304, "title": "صبرو استقلال"},
+              {"id": 50305, "title": "عفودرگزر"},
+              {"id": 50306, "title": "ذکر"}
             ]
           },
           {
             "id": 504,
-            "title": "باب نمبر 4: تعارفِ قرآن و حدیث",
+            "title": "تعارفِ قرآن و حدیث",
             "exercises": [
-              {"id": 50401, "title": "4.1 تعارفِ قرآن"},
-              {"id": 50402, "title": "4.2 تعارفِ حدیث"},
-              {"id": 50403, "title": "4.3 منتخب آیات"},
-              {"id": 50404, "title": "4.4 منتخب احادیث"}
+              {"id": 50401, "title": "تعارفِ قرآن"},
+              {"id": 50402, "title": "تعارفِ حدیث"},
+              {"id": 50403, "title": "منتخب آیات"},
+              {"id": 50404, "title": "منتخب احادیث"}
             ]
           }
         ]
@@ -3393,7 +3393,7 @@
         "units": [
           {
             "id": 601,
-            "title": "Chapter 1: Islam and Pakistan",
+            "title": "Islam and Pakistan",
             "exercises": [
               {"id": 60101, "title": "1.1 Islam as the Ideological Base of Pakistan"},
               {"id": 60102, "title": "1.2 The Sunnah of Prophet Muhammad خَاتَمَ النَّبِیّٖنَﷺ"},
@@ -3407,7 +3407,7 @@
           },
           {
             "id": 602,
-            "title": "Chapter 2: Political and Constitutional Development",
+            "title": "Political and Constitutional Development",
             "exercises": [
               {"id": 60201, "title": "2.1 Progress and Problems of Democracy in Pakistan"},
               {"id": 60202, "title": "2.2 Role of Political Parties in Promoting Democracy in Pakistan"},
@@ -3423,7 +3423,7 @@
           },
           {
             "id": 603,
-            "title": "Chapter 3: Administrative System",
+            "title": "Administrative System",
             "exercises": [
               {"id": 60301, "title": "3.1 Functions of Federation and Provinces in the light of the Constitution of 1973"},
               {"id": 60302, "title": "3.2 Difference between Functions of Central and Provincial Government"},
@@ -3438,7 +3438,7 @@
           },
           {
             "id": 604,
-            "title": "Chapter 4: Human Rights",
+            "title": "Human Rights",
             "exercises": [
               {"id": 60401, "title": "4.1 Concept of Human Rights"},
               {"id": 60402, "title": "4.2 Islamic Concept of Human Rights"},
@@ -3449,7 +3449,7 @@
           },
           {
             "id": 605,
-            "title": "Chapter 5: Education System of Pakistan",
+            "title": "Education System of Pakistan",
             "exercises": [
               {"id": 60501, "title": "5.1 Concept of Education"},
               {"id": 60502, "title": "5.2 Goals of Education System of Pakistan"},
@@ -3460,7 +3460,7 @@
           },
           {
             "id": 606,
-            "title": "Chapter 6: Sports and Tourism",
+            "title": "Sports and Tourism",
             "exercises": [
               {"id": 60601, "title": "6.1 Importance of Sports in a Society"},
               {"id": 60602, "title": "6.2 Profile of Pakistan in World's Sports"},
@@ -3702,20 +3702,20 @@
             "id": 901,
             "title": "نثر",
             "exercises": [
-              {"id": 90101, "title": "باب نمبر 1: مناقب عمر بن عبدالعزیزؓ"},
-              {"id": 90102, "title": "باب نمبر2: تشکیل پاکستان"},
-              {"id": 90103, "title": "باب نمبر 3: نواب محسن الملک"},
-              {"id": 90104, "title": "باب نمبر 4: محنت پسند خردمند"},
-              {"id": 90105, "title": "باب نمبر 5: اکبری کی حماقتیں"},
-              {"id": 90106, "title": "باب نمبر 6: پہلی فتح"},
-              {"id": 90107, "title": "باب نمبر 7: دستک"},
-              {"id": 90108, "title": "باب نمبر 8: ہوائی"},
-              {"id": 90109, "title": "باب نمبر 9: مولانا ظفرعلی خاں"},
-              {"id": 90110, "title": "باب نمبر 10: قرطبہ کا قاضی"},
-              {"id": 90111, "title": "باب نمبر 11: مواصلات کے جدید ذرائع"},
-              {"id": 90112, "title": "باب نمبر 12: مولوی نذیر احمد دہلوی"},
-              {"id": 90113, "title": "باب نمبر 13: ایک سفر نامہ جو کہیں کا بھی نہیں ہے"},
-              {"id": 90114, "title": "باب نمبر 14: ایوب عباسی"}
+              {"id": 90101, "title": "مناقب عمر بن عبدالعزیزؓ"},
+              {"id": 90102, "title": "تشکیل پاکستان"},
+              {"id": 90103, "title": "نواب محسن الملک"},
+              {"id": 90104, "title": "محنت پسند خردمند"},
+              {"id": 90105, "title": "اکبری کی حماقتیں"},
+              {"id": 90106, "title": "پہلی فتح"},
+              {"id": 90107, "title": "دستک"},
+              {"id": 90108, "title": "ہوائی"},
+              {"id": 90109, "title": "مولانا ظفرعلی خاں"},
+              {"id": 90110, "title": "قرطبہ کا قاضی"},
+              {"id": 90111, "title": "مواصلات کے جدید ذرائع"},
+              {"id": 90112, "title": "مولوی نذیر احمد دہلوی"},
+              {"id": 90113, "title": "ایک سفر نامہ جو کہیں کا بھی نہیں ہے"},
+              {"id": 90114, "title": "ایوب عباسی"}
             ]
           },
           {
