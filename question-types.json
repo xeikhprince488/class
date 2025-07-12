@@ -1,0 +1,607 @@
+{
+  "questionTypes": {
+    "9th": {
+      "English": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Write short answers to the following questions."
+        },
+        {
+          "type": "e_to_u",
+          "marks": 8,
+          "statement": "Translate the following paragraph into urdu"
+        },
+        {
+          "type": "summary",
+          "marks": 5,
+          "statement": "Write a summary of the poem"
+        },
+        {
+          "type": "w_sentence",
+          "marks": 1,
+          "statement": "Use following words/phrases/idioms in your own sentences."
+        },
+        {
+          "type": "letter",
+          "marks": 8,
+          "statement": "Write a letter to"
+        },
+        {
+          "type": "story",
+          "marks": 8,
+          "statement": "Write a story with the title"
+        },
+        {
+          "type": "dialogue",
+          "marks": 8,
+          "statement": "Write a dialogue between"
+        },
+        {
+          "type": "comprehense",
+          "marks": 10,
+          "statement": "Read the passage carefully and answer the questions given at the end."
+        },
+        {
+          "type": "u_to_e",
+          "marks": 1,
+          "statement": "Translate the following sentences into English."
+        },
+        {
+          "type": "act_pass",
+          "marks": 1,
+          "statement": "Change the voice of the following sentences."
+        }
+      ],
+      "Urdu": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "درج ذیل سوالات کے درست جوابات کا انتخاب کیجیے۔",
+          "urduLabel": "معروضی سوالات"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "مختصر جوابات تحریر کیجیے۔",
+          "urduLabel": "مختصر جوابات"
+        },
+        {
+          "type": "nazam_tashreeh",
+          "marks": 8,
+          "statement": "درج ذیل نظم کی تشریح کیجیے۔",
+          "urduLabel": "نظم کی تشریح"
+        },
+        {
+          "type": "ghazal_tashreeh",
+          "marks": 8,
+          "statement": "درج ذیل اشعار کی تشریح کیجیے۔",
+          "urduLabel": "غزل کی تشریح"
+        }
+      ],
+      "Science": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 8,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Mathematics": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 8,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Computer Science": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 8,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Pakistan Studies": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Write short answers to any FOUR of the following questions."
+        },
+        {
+          "type": "long",
+          "marks": 4,
+          "statement": "Answer any TWO of the following questions."
+        }
+      ]
+    },
+    "10th": {
+      "English": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Write short answers to the following questions."
+        },
+        {
+          "type": "e_to_u",
+          "marks": 8,
+          "statement": "Translate the following paragraph into urdu"
+        },
+        {
+          "type": "summary",
+          "marks": 5,
+          "statement": "Write a summary of the poem"
+        },
+        {
+          "type": "essay",
+          "marks": 15,
+          "statement": "Write an essay on any one of the following topics."
+        },
+        {
+          "type": "dir_ind",
+          "marks": 1,
+          "statement": "Change the following sentences into indirect form."
+        },
+        {
+          "type": "pair_o_w",
+          "marks": 1,
+          "statement": "Use the following pair of words in your own sentences."
+        },
+        {
+          "type": "u_to_e",
+          "marks": 8,
+          "statement": "Translate the following paragraph into English."
+        }
+      ],
+      "Urdu": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "درج ذیل سوالات کے درست جوابات کا انتخاب کیجیے۔",
+          "urduLabel": "معروضی سوالات"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "مختصر جوابات تحریر کیجیے۔",
+          "urduLabel": "مختصر جوابات"
+        },
+        {
+          "type": "maani",
+          "marks": 2,
+          "statement": "درج ذیل الفاظ کے معنی تحریر کیجیے۔",
+          "urduLabel": "معانی"
+        },
+        {
+          "type": "long",
+          "marks": 4,
+          "statement": "درج ذیل سوالات کے جوابات تحریر کیجیے۔",
+          "urduLabel": "طویل جوابات"
+        }
+      ],
+      "Science": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 8,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Mathematics": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 8,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Computer Science": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 8,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Pakistan Studies": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Write short answers to any FOUR of the following questions."
+        },
+        {
+          "type": "long",
+          "marks": 4,
+          "statement": "Answer any TWO of the following questions."
+        }
+      ]
+    },
+    "11th": {
+      "English": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "sq_book_i",
+          "marks": 2,
+          "statement": "Write short answers to the following questions from Book I."
+        },
+        {
+          "type": "sq_book_ii",
+          "marks": 2,
+          "statement": "Write short answers to the following questions from Book II."
+        },
+        {
+          "type": "sq_book_iii",
+          "marks": 2,
+          "statement": "Write short answers to the following questions from Book III."
+        },
+        {
+          "type": "character_i",
+          "marks": 8,
+          "statement": "Write a note on the character of"
+        },
+        {
+          "type": "character_ii",
+          "marks": 8,
+          "statement": "Write a note on any ONE of the following characters."
+        },
+        {
+          "type": "ref_con",
+          "marks": 5,
+          "statement": "Reference to Context"
+        }
+      ],
+      "Urdu": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "درج ذیل سوالات کے درست جوابات کا انتخاب کیجیے۔",
+          "urduLabel": "معروضی سوالات"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "مختصر جوابات تحریر کیجیے۔",
+          "urduLabel": "مختصر جوابات"
+        },
+        {
+          "type": "nazam_tashreeh",
+          "marks": 8,
+          "statement": "درج ذیل نظم کی تشریح کیجیے۔",
+          "urduLabel": "نظم کی تشریح"
+        },
+        {
+          "type": "ghazal_tashreeh",
+          "marks": 8,
+          "statement": "درج ذیل اشعار کی تشریح کیجیے۔",
+          "urduLabel": "غزل کی تشریح"
+        },
+        {
+          "type": "letter",
+          "marks": 10,
+          "statement": "خط تحریر کیجیے۔",
+          "urduLabel": "خط"
+        }
+      ],
+      "Chemistry": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 4,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Biology": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 4,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Physics": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 8,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Mathematics": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 5,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Computer Science": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 8,
+          "statement": "Attempt the following questions"
+        }
+      ]
+    },
+    "12th": {
+      "English": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "sq_book_i",
+          "marks": 2,
+          "statement": "Write short answers to the following questions from Book I."
+        },
+        {
+          "type": "sq_book_ii",
+          "marks": 2,
+          "statement": "Write short answers to the following questions from Book II."
+        },
+        {
+          "type": "sq_book_iii",
+          "marks": 2,
+          "statement": "Write short answers to the following questions from Book III."
+        },
+        {
+          "type": "character_i",
+          "marks": 8,
+          "statement": "Write a note on the character of"
+        },
+        {
+          "type": "character_ii",
+          "marks": 8,
+          "statement": "Write a note on any ONE of the following characters."
+        },
+        {
+          "type": "ref_con",
+          "marks": 5,
+          "statement": "Reference to Context"
+        }
+      ],
+      "Urdu": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "درج ذیل سوالات کے درست جوابات کا انتخاب کیجیے۔",
+          "urduLabel": "معروضی سوالات"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "مختصر جوابات تحریر کیجیے۔",
+          "urduLabel": "مختصر جوابات"
+        },
+        {
+          "type": "nazam_tashreeh",
+          "marks": 8,
+          "statement": "درج ذیل نظم کی تشریح کیجیے۔",
+          "urduLabel": "نظم کی تشریح"
+        },
+        {
+          "type": "ghazal_tashreeh",
+          "marks": 8,
+          "statement": "درج ذیل اشعار کی تشریح کیجیے۔",
+          "urduLabel": "غزل کی تشریح"
+        },
+        {
+          "type": "letter",
+          "marks": 10,
+          "statement": "خط تحریر کیجیے۔",
+          "urduLabel": "خط"
+        }
+      ],
+      "Chemistry": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 4,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Biology": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 4,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Physics": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 8,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Mathematics": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 5,
+          "statement": "Attempt the following questions"
+        }
+      ],
+      "Computer Science": [
+        {
+          "type": "mcqs",
+          "marks": 1,
+          "statement": "Choose the correct option"
+        },
+        {
+          "type": "short",
+          "marks": 2,
+          "statement": "Attempt the following parts."
+        },
+        {
+          "type": "long",
+          "marks": 8,
+          "statement": "Attempt the following questions"
+        }
+      ]
+    }
+  }
+}
